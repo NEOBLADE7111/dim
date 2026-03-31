@@ -1,0 +1,12 @@
+PyGithub
+speech-recognition
+groq
+psutil
+urllib3
+wikipedia
+beautifulsoup4
+aiosqlite
+aiohttp
+aiogram
+python-telegram-bot
+gtts
